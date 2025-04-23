@@ -35,11 +35,10 @@
 </div>
 
 ###
-
 <h2 align="center">🐾 Cat-approved Tools 🐾</h2>
 
-<div align="center">
-  <div align="left" style="display: inline-block; vertical-align: top; max-width: 65%;">
+<div align="left">
+  <div style="display: inline-block; vertical-align: middle;">
     <img src="https://cdn.simpleicons.org/angular/DD0031" height="30" alt="angular logo" />
     <img width="8" />
     <img src="https://cdn.simpleicons.org/flutter/02569B" height="30" alt="flutter logo" />
@@ -59,7 +58,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
     <img width="8" />
     <img src="https://cdn.simpleicons.org/pandas/150458" height="30" alt="pandas logo" />
-    <br><br>
+  </div>
+
+  <div style="display: inline-block; vertical-align: middle; margin-left: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
     <img width="8" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
@@ -81,7 +82,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo" />
   </div>
 
-  <img align="right" height="200" style="margin-left: 30px;" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NzZDV3d255MnI0ZWp5cTQ4M2c0NmQ5ZGRoOTFuZHY1MmV6c2hiMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" />
+  <img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NzZDV3d255MnI0ZWp5cTQ4M2c0NmQ5ZGRoOTFuZHY1MmV6c2hiMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" />
 </div>
 
 <br clear="both">
