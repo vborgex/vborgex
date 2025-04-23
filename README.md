@@ -107,9 +107,15 @@
 
 <br clear="both">
 
-<p align="center">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/vborgex/vborgex/main/pacman-contribution-graph.svg">
-</p>
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vborgex/vborgex/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vborgex/vborgex/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vborgex/vborgex/output/pacman-contribution-graph.svg">
+</picture>
+
 
 
 ###
