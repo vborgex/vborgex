@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="./capareadme.mp4" />
+  <img height="200" src="./capa.gif" />
 </div>
 
 ###
