@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="./capa.gif" />
+  <img height="900" src="./capa.gif" />
 </div>
 
 ###
