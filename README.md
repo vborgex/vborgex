@@ -108,8 +108,9 @@
 <br clear="both">
 
 <p align="center">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vborgex/vborgex/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/vborgex/vborgex/main/pacman-contribution-graph.svg">
 </p>
+
 
 ###
 <p align="center">
