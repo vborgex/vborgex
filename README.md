@@ -1,26 +1,33 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="./Capa.mp4"  />
+  <img height="200" src="./Capa.mp4" />
 </div>
 
 ###
 
 <br clear="both">
 
-<p align="left">I'm Vanessa Borges — a curious developer who loves clean code, cats 🐾, and plants 🌱.  <br>Here, you'll find a bit of everything I grow: code, ideas, and side projects.</p>
+<p align="left">
+  I'm Vanessa Borges — a curious developer who loves clean code, cats 🐾, and plants 🌱.  
+  <br>
+  Here, you'll find a bit of everything I grow: code, ideas, and side projects.
+</p>
 
 ###
 
 <br clear="both">
 
-<p align="left">📦 Projects I’m nurturing at the moment:<br>- 🌿 Frontend garden: React, Bootstrap<br>- 🐈 Backend den: Firebase, Node.js<br>- 🧠 Experiments corner: AI, NLP</p>
+<p align="left">
+  📦 Projects I’m nurturing at the moment:<br>
+  - 🌿 Frontend garden: React, Bootstrap<br>
+  - 🐈 Backend den: Firebase, Node.js<br>
+  - 🧠 Experiments corner: AI, NLP
+</p>
 
 ###
 
-<h1 align="center">🌿 GitHub Stats🌿</h1>
-
-###
+<h1 align="center">🌿 GitHub Stats 🌿</h1>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vborgex&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=graywhite&hide_border=true" height="130" alt="languages graph"  />
@@ -30,8 +37,6 @@
 ###
 
 <h2 align="center">🐾 Cat-approved Tools 🐾</h2>
-
-###
 
 <div align="center">
   <div align="left" style="display: inline-block; vertical-align: top; max-width: 65%;">
@@ -79,30 +84,22 @@
   <img align="right" height="200" style="margin-left: 30px;" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NzZDV3d255MnI0ZWp5cTQ4M2c0NmQ5ZGRoOTFuZHY1MmV6c2hiMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" />
 </div>
 
-###
-
-<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NzZDV3d255MnI0ZWp5cTQ4M2c0NmQ5ZGRoOTFuZHY1MmV6c2hiMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif"  />
-
-###
-
 <br clear="both">
+
+###
 
 <h2 align="center">📮 Where to find me 📮</h2>
 
-###
-
 <div align="left">
   <a href="https://www.instagram.com/vaneborgex/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo" />
   </a>
-  <a href="www.linkedin.com/in/vanessaborgescc" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/vanessaborgescc" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo" />
   </a>
 </div>
 
-###
-
-<p align="left">vanessa_borges123@outlook.com</p>
+<p align="left">✉️ vanessa_borges123@outlook.com</p>
 
 ###
 
@@ -116,6 +113,10 @@
 
 ###
 
-<p align="center">That’s all for now — stay curious.</p>
+<p align="center">
+  In the silence of whitespace,<br>
+  ideas bloom. 🌿<br><br>
+  <small><i>See you on the next commit — Vanessa 🖤</i></small>
+</p>
 
 ###
