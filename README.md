@@ -101,7 +101,7 @@
   </a>
 </div>
 
-<p align="left">✉️ vanessa_borges123@outlook.com</p>
+<p align="center">✉️ vanessa_borges123@outlook.com</p>
 
 ###
 
