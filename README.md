@@ -9,7 +9,7 @@
 <br clear="both">
 
 <p align="left">
-  I'm Vanessa Borges — a curious developer who loves clean code, cats 🐾, and plants 🌱.  
+  I'm Vanessa Borges — a curious developer who loves to code, cats 🐾, and plants 🌱.  
   <br>
   Here, you'll find a bit of everything I grow: code, ideas, and side projects.
 </p>
