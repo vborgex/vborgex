@@ -1,21 +1,145 @@
-<h1 align="center">Hi 👋, I'm Vanessa</h1>
-<h3 align="center">A Computer Science Student from Brazil</h3>
+<br clear="both">
 
-- 🔭 I’m currently working on [my Graduation Project](https://github.com/vborgex/TCC.git)
+<div align="center">
+  <img height="200" src="./Capa.mp4"  />
+</div>
 
-- 👨‍💻 Find me in LinkedIn [Vanessaborgescc](www.linkedin.com/in/vanessaborgescc)
+###
 
-- 📫 How to reach me **vanessa_borges123@outlook.com**
+<br clear="both">
 
-- ⚡ Fun fact **I'm a cats and plants girlie**
+<p align="left">I'm Vanessa Borges — a curious developer who loves clean code, cats 🐾, and plants 🌱.  <br>Here, you'll find a bit of everything I grow: code, ideas, and side projects.</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vanessaborgescc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vanessaborgescc" height="30" width="30" /></a>
-<a href="https://instagram.com/vaneborgex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaneborgex" height="30" width="30" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="30" height="30"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="30" height="30"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="30" height="30"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="30" height="30"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="30" height="30"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="30" height="30"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30" height="30"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> </a> </p>
+<br clear="both">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vborgex&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="vborgex" /></p>
+<p align="left">📦 Projects I’m nurturing at the moment:<br>- 🌿 Frontend garden: React, Bootstrap<br>- 🐈 Backend den: Firebase, Node.js<br>- 🧠 Experiments corner: AI, NLP</p>
+
+###
+
+<h1 align="center">🌿 GitHub Stats🌿</h1>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vborgex&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=graywhite&hide_border=true" height="130" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vborgex&theme=github-dark&area=true&hide_border=true&bg_color=ffffff&color=without&title_color=ffffff&line=000000&area_color=f34b7d&point=without&radius=10&hide_title=true&custom_title=Activity%20Graph" height="130" alt="activity-graph graph"  />
+</div>
+
+###
+
+<h2 align="center">🐾 Cat-approved Tools 🐾</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/angular/DD0031" height="30" alt="angularjs logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/flutter/02569B" height="30" alt="flutter logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/ionic/3880FF" height="30" alt="ionic logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="30" alt="tensorflow logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="30" alt="opencv logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" alt="bootstrap logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="30" alt="firebase logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="30" alt="pandas logo"  />
+</div>
+
+###
+
+<div align="center">
+  <div align="left" style="display: inline-block; vertical-align: top; max-width: 65%;">
+    <img src="https://cdn.simpleicons.org/angular/DD0031" height="30" alt="angular logo" />
+    <img width="8" />
+    <img src="https://cdn.simpleicons.org/flutter/02569B" height="30" alt="flutter logo" />
+    <img width="8" />
+    <img src="https://cdn.simpleicons.org/ionic/3880FF" height="30" alt="ionic logo" />
+    <img width="8" />
+    <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="30" alt="tensorflow logo" />
+    <img width="8" />
+    <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="30" alt="opencv logo" />
+    <img width="8" />
+    <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" alt="bootstrap logo" />
+    <img width="8" />
+    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo" />
+    <img width="8" />
+    <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="30" alt="firebase logo" />
+    <img width="8" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
+    <img width="8" />
+    <img src="https://cdn.simpleicons.org/pandas/150458" height="30" alt="pandas logo" />
+    <br><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+    <img width="8" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
+    <img width="8" />
+    <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="python logo" />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=html" height="30" alt="html logo" />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo" />
+    <img width="8" />
+    <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="react logo" />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo" />
+    <img width="8" />
+    <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo" />
+    <img width="8" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+    <img width="8" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo" />
+  </div>
+
+  <img align="right" height="200" style="margin-left: 30px;" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NzZDV3d255MnI0ZWp5cTQ4M2c0NmQ5ZGRoOTFuZHY1MmV6c2hiMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" />
+</div>
+
+###
+
+<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NzZDV3d255MnI0ZWp5cTQ4M2c0NmQ5ZGRoOTFuZHY1MmV6c2hiMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif"  />
+
+###
+
+<br clear="both">
+
+<h2 align="center">📮 Where to find me 📮</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/vaneborgex/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
+  </a>
+  <a href="www.linkedin.com/in/vanessaborgescc" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<p align="left">vanessa_borges123@outlook.com</p>
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vborgex/vborgex/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vborgex/vborgex/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vborgex/vborgex/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<p align="center">That’s all for now — stay curious.</p>
+
+###
