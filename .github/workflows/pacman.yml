@@ -1,4 +1,4 @@
-name: Generate Pacman Graph
+ename: Generate Pacman Graph
 
 on:
   schedule:
