@@ -1,0 +1,29 @@
+name: Generate Pacman Graph
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # roda todo dia à meia-noite
+  workflow_dispatch:     # permite rodar manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Pacman graph
+        uses: vsamov/pacman-github-graph@main
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user_name: vborgex
+          theme: dark
+          output_path: ./pacman-contribution-graph.svg
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add pacman-contribution-graph.svg
+          git commit -m "Update Pacman contribution graph" || echo "No changes to commit"
+          git push
