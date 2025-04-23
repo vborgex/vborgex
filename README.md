@@ -122,7 +122,7 @@
 
 ###
 <p align="center">
-  That’s all for now — stay curious. <br><br>
+  That’s all for now, stay curious.
   <small><i>XOXO — Vanessa 🖤</i></small>
 </p>
 
