@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my Graduation Project](https://github.com/vborgex/TCC.git)
 
-- 👨‍💻 Find me in LinkedIn [www.linkedin.com/in/vanessaborgescc](www.linkedin.com/in/vanessaborgescc)
+- 👨‍💻 Find me in LinkedIn [Vanessaborgescc](www.linkedin.com/in/vanessaborgescc)
 
 - 📫 How to reach me **vanessa_borges123@outlook.com**
 
