@@ -33,30 +33,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.simpleicons.org/angular/DD0031" height="30" alt="angularjs logo"  />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/flutter/02569B" height="30" alt="flutter logo"  />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/ionic/3880FF" height="30" alt="ionic logo"  />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="30" alt="tensorflow logo"  />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="30" alt="opencv logo"  />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" alt="bootstrap logo"  />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="30" alt="firebase logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="30" alt="pandas logo"  />
-</div>
-
-###
-
 <div align="center">
   <div align="left" style="display: inline-block; vertical-align: top; max-width: 65%;">
     <img src="https://cdn.simpleicons.org/angular/DD0031" height="30" alt="angular logo" />
