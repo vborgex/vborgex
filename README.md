@@ -39,11 +39,7 @@
 <h2 align="center">🐾 Cat-approved Tools 🐾</h2>
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/angular/DD0031" height="30" alt="angular logo" />
-  <img width="8" />
   <img src="https://cdn.simpleicons.org/flutter/02569B" height="30" alt="flutter logo" />
-  <img width="8" />
-  <img src="https://cdn.simpleicons.org/ionic/3880FF" height="30" alt="ionic logo" />
   <img width="8" />
   <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="30" alt="tensorflow logo" />
   <img width="8" />
@@ -71,8 +67,6 @@
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo" />
   <img width="8" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="react logo" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo" />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo" />
   <img width="8" />
