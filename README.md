@@ -16,14 +16,14 @@
 
 ###
 
-<br clear="both">
+<!-- <br clear="both">
 
 <p align="left">
   📦 Projects I’m nurturing at the moment:<br>
   - 🌿 Frontend garden: React, Bootstrap<br>
   - 🐈 Backend den: Firebase, Node.js<br>
   - 🧠 Experiments corner: AI, NLP
-</p>
+</p> -->
 
 ###
 
